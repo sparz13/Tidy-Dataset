@@ -31,6 +31,7 @@ I do not have multiple tables so we can disregard the fourth principle as it onl
 To read my tidy dataset in here it is:
 
 > data <- read.table("SecondSet", header = TRUE)
+
 > View(data)
 
 Thank you!
