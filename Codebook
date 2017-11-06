@@ -1,1 +1,279 @@
+Codebook for the Getting and Cleaning Course Project
+
+Activities
+    The six exercises that the subjects performed.
+        WALKING
+        WALKING UPSTAIRS
+        WALKING DOWNSTAIRS
+        SITTING 
+        STANDING
+        LAYING
+
+Subjects 
+    The persons that participated in the study.
+        1..30 (only 30 participants)
+
+tBodyAcc-mean()-X
+    Mean Body Acceleration signal through X direction
+        -1..1 signal value
+
+tBodyAcc-mean()-Y
+    Mean Body Acceleration signal through Y direction
+         -1..1 signal value
+
+tBodyAcc-mean()-Z
+    Mean Body Acceleration signal through Z direction
+         -1..1 signal value
+
+tBodyAcc-std()-X
+    Standard Deviation of Body Acceleration signal through X direction
+          -1..1 signal value
+
+tBodyAcc-std()-Y
+    Standard Deviation of Body Acceleration signal through Y direction
+          -1..1 signal value
+
+tBodyAcc-std()-Z
+    Standard Deviation of Body Acceleration signal through Z direction
+          -1..1 signal value
+
+tGravityAcc-mean()-X
+    Mean Gravity Acceleration through X direction
+          -1..1 signal value
+
+tGravityAcc-mean()-Y
+    Mean Gravity Acceleration through Y direction
+          -1..1 signal value
+
+tGravityAcc-mean()-Z
+    Mean Gravity Acceleration through Z direction
+          -1..1 signal value
+
+tGravityAcc-std()-X
+    Standard Deviation of Gravity Acceleration through X direction
+          -1..1 signal value
+
+tGravityAcc-std()-Y
+    Standard Deviation of Gravity Acceleration through Y direction
+          -1..1 signal value
+
+tGravityAcc-std()-Z
+    Standard Deviation of Gravity Acceleration through Z direction
+          -1..1 signal value
+
+tBodyAccJerk-mean()-X
+    Mean of Body Acceleration Jerk Signals through X direction
+          -1..1 signal value
+
+tBodyAccJerk-mean()-Y
+    Mean of Body Acceleration Jerk Signals through Y direction
+          -1..1 signal value
+
+tBodyAccJerk-mean()-Z
+    Mean of Body Acceleration Jerk Signals through Z direction
+          -1..1 signal value
+
+tBodyAccJerk-std()-X
+    Standard Deviation of Body Acceleration Jerk Signals through X direction
+          -1..1 signal value
+
+tBodyAccJerk-std()-Y
+    Standard Deviation of Body Acceleration Jerk Signals through Y direction
+          -1..1 signal value
+
+tBodyAccJerk-std()-Z
+    Standard Deviation of Body Acceleration Jerk Signals through Z direction
+          -1..1 signal value
+
+tBodyGyro-mean()-X
+    Mean of Body Gyro signals through X direction
+          -1..1 signal value
+
+tBodyGyro-mean()-Y
+    Mean of Body Gyro signals through Y direction
+          -1..1 signal value
+
+tBodyGyro-mean()-Z
+    Mean of Body Gyro signals through Z direction
+          -1..1 signal value
+
+tBodyGyro-std()-X
+    Standard Deviation of Body Gyro through X direction
+          -1..1 signal value
+
+tBodyGyro-std()-Y
+    Standard Deviation of Body Gyro through Y direction
+          -1..1 signal value
+
+tBodyGyro-std()-Z
+    Standard Deviation of Body Gyro through Z direction 
+          -1..1 signal value
+
+tBodyGyroJerk-mean()-X
+    Mean of Body Gyro Jerk signals through X direction
+          -1..1 signal value
+
+tBodyGyroJerk-mean()-Y
+    Mean of Body Gyro Jerk signals through Y direction
+          -1..1 signal value
+
+tBodyGyroJerk-mean()-Z
+    Mean of Body Gyro Jerk Signals through Z direction
+          -1..1 signal value
+
+tBodyGyroJerk-std()-X
+    Standard Deviation of Body Gyro Jerk signals through X direction
+          -1..1 signal value
+
+tBodyGyroJerk-std()-Y
+    Standard Deviation of Body Gyro Jerk signals through Y direction
+          -1..1 signal value
+
+tBodyGyroJerk-std()-Z
+    Standard Deviation of Body Gyro Jerk signals through Z direction
+          -1..1 signal value
+
+tBodyAccMag-mean()
+    Mean of the Body Acceleration Magnitude 
+          -1..1 signal value
+
+tBodyAccMag-std()
+    Standard Deviation of the Body Acceleration Magnitude
+          -1..1 signal value
+
+tGravityAccMag-mean()
+    Mean of Gravity Acceleration Magnitude
+          -1..1 signal value
+
+tGravityAccMag-std()
+    Standard Deviation of Gravity Acceleration Magnitude 
+          -1..1 signal value
+
+tBodyAccJerkMag-mean()
+    Mean of Body Acceleration Jerk Magnitude 
+          -1..1 signal value
+
+tBodyAccJerkMag-std()
+    Standard Deviation of Body Acceleration Jerk Magnitude
+          -1..1 signal value
+
+tBodyGyroMag-mean()
+    Mean of Body Gyro Magnitude
+          -1..1 signal value
+
+tBodyGyroMag-std()
+    Standard Deviaton of Body Gyro Magnitude
+          -1..1 signal value
+
+tBodyGyroJerkMag-mean()
+    Mean of Body Gyro Jerk Magnitude
+          -1..1 signal value
+
+tBodyGyroJerkMag-std()
+    Standard Deviation of Body Gyro Jerk Magnitude
+          -1..1 signal value
+
+fBodyAcc-mean()-X
+    Mean Body Acceleration frequency domain signal through X direction
+        -1..1 freqency domain signal value
+
+fBodyAcc-mean()-Y
+    Mean Body Acceleration frequency domain signal through Y direction
+        -1..1 freqency domain signal value
+        
+fBodyAcc-mean()-Z
+    Mean Body Acceleration frequency domain signal through Z direction
+        -1..1 freqency domain signal value
+        
+fBodyAcc-std()-X
+    Standard Deviation of Body Acceleration frequency domain signal through X direction
+        -1..1 freqency domain signal value
+        
+fBodyAcc-std()-Y
+    Standard Deviation of Body Acceleration frequency domain signal through Y direction
+        -1..1 freqency domain signal value
+        
+fBodyAcc-std()-Z
+    Standard Deviation of Body Acceleration frequency domain signal through Z direction
+        -1..1 freqency domain signal value
+        
+fBodyAccJerk-mean()-X
+    Mean of Body Acceleration Jerk frequency domain signal through the X direction
+        -1..1 freqency domain signal value
+
+fBodyAccJerk-mean()-Y
+    Mean of Body Acceleration Jerk frequency domain signal through the Y direction
+        -1..1 freqency domain signal value
+        
+fBodyAccJerk-mean()-Z
+    Mean of Body Acceleration Jerk frequency domain signal through the Z direction
+        -1..1 freqency domain signal value
+        
+fBodyAccJerk-std()-X
+    Standard Deviation of Body Acceleration Jerk frequency domain signal through the X direction
+        -1..1 freqency domain signal value
+        
+fBodyAccJerk-std()-Y
+    Standard Deviation of Body Acceleration Jerk frequency domain signal through the Y direction
+        -1..1 freqency domain signal value
+        
+fBodyAccJerk-std()-Z
+    Standard Deviation of Body Acceleration Jerk frequency domain signal through the Z direction
+        -1..1 freqency domain signal value
+        
+fBodyGyro-mean()-X
+    Mean of Body Gyro frequency domain signal through the X direction
+        -1..1 freqency domain signal value
+        
+fBodyGyro-mean()-Y
+    Mean of Body Gyro frequency domain signal through the X direction
+        -1..1 freqency domain signal value
+        
+fBodyGyro-mean()-Z
+    Mean of Body Gyro frequency domain signal through the X direction
+        -1..1 freqency domain signal value
+        
+fBodyGyro-std()-X
+    Standard Deviation of Body Gyro frequency domain signal through the X direction
+        -1..1 freqency domain signal value
+        
+fBodyGyro-std()-Y
+    Standard Deviation of Body Gyro frequency domain signal through the Y direction
+        -1..1 freqency domain signal value
+        
+fBodyGyro-std()-Z
+    Standard Deviation of Body Gyro frequency domain signal through the X direction
+        -1..1 freqency domain signal value
+        
+fBodyAccMag-mean()
+    Mean of Body Acceleration Magnitude
+        -1..1 frequency domain signal value
+        
+fBodyAccMag-std()
+    Standard Deviation of Body Acceleration Magnitude
+        -1..1 frequency domain signal value
+        
+fBodyBodyAccJerkMag-mean()
+    Mean of Body Body Acceleration Jerk Magnitude
+        -1..1 frequency domain signal value 
+        
+fBodyBodyAccJerkMag-std()
+    Standard Deviation of Body Body Acceleration Jerk Magnitude
+        -1..1 frequency domain signal value
+        
+fBodyBodyGyroMag-mean()
+    Mean of Body Body Gyro Magnitude 
+        -1..1 frequency domain signal value
+        
+fBodyBodyGyroMag-std()
+    Standard Deviation of Body Body Gyro Magnitude
+        -1..1 frequency domain signal value
+        
+fBodyBodyGyroJerkMag-mean()
+    Mean of Body Body Gyro Jerk Magnitude
+        -1..1 frequency domain signal value
+        
+fBodyBodyGyroJerkMag-std()
+    Standard Deviation of Body Body Gyro Jerk Magnitude
+        -1..1 frequency domain signal value
 
